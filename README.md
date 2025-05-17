@@ -1,0 +1,2 @@
+# Sistema-de-Control-de-Acceso-Inteligente-con-M-ltiples-M-todos-de-Validaci-n-y-Auditor-a.
+Desarrollar un sistema de control de acceso para una puerta, utilizando un Arduino para la interacción con hardware (sensores, actuadores) y una aplicación Python en una PC/Laptop para la lógica principal, gestión de usuarios, validación de credenciales (RFID, QR, Reconocimiento Facial), y generación de reportes. 
