@@ -1,0 +1,95 @@
+{
+    "fecha": "2025-06-12",
+    "contador_accesos": 0,
+    "eventos_accesos_exitosos": [],
+    "intentos_accesos_fallidos": [
+        {
+            "timestamp_intento": "2025-06-12 22:23:28",
+            "uid_rfid_presentado": "894D596D",
+            "nombre_usuario_detectado": "Desconocido",
+            "dni_usuario_detectado": "N/A",
+            "motivo_fallo": "Tarjeta no reconocida"
+        },
+        {
+            "timestamp_intento": "2025-06-12 22:24:29",
+            "uid_rfid_presentado": "A45D97AF",
+            "nombre_usuario_detectado": "Desconocido",
+            "dni_usuario_detectado": "N/A",
+            "motivo_fallo": "Tarjeta no reconocida"
+        },
+        {
+            "timestamp_intento": "2025-06-12 22:24:41",
+            "uid_rfid_presentado": "N/A",
+            "nombre_usuario_detectado": "Desconocido",
+            "dni_usuario_detectado": "N/A",
+            "motivo_fallo": "Timeout Presentaci\u00f3n RFID"
+        },
+        {
+            "timestamp_intento": "2025-06-12 22:24:54",
+            "uid_rfid_presentado": "N/A",
+            "nombre_usuario_detectado": "Desconocido",
+            "dni_usuario_detectado": "N/A",
+            "motivo_fallo": "Timeout Presentaci\u00f3n RFID"
+        },
+        {
+            "timestamp_intento": "2025-06-12 22:25:06",
+            "uid_rfid_presentado": "N/A",
+            "nombre_usuario_detectado": "Desconocido",
+            "dni_usuario_detectado": "N/A",
+            "motivo_fallo": "Timeout Presentaci\u00f3n RFID"
+        },
+        {
+            "timestamp_intento": "2025-06-12 22:25:19",
+            "uid_rfid_presentado": "N/A",
+            "nombre_usuario_detectado": "Desconocido",
+            "dni_usuario_detectado": "N/A",
+            "motivo_fallo": "Timeout Presentaci\u00f3n RFID"
+        },
+        {
+            "timestamp_intento": "2025-06-12 22:25:31",
+            "uid_rfid_presentado": "N/A",
+            "nombre_usuario_detectado": "Desconocido",
+            "dni_usuario_detectado": "N/A",
+            "motivo_fallo": "Timeout Presentaci\u00f3n RFID"
+        },
+        {
+            "timestamp_intento": "2025-06-12 22:25:44",
+            "uid_rfid_presentado": "N/A",
+            "nombre_usuario_detectado": "Desconocido",
+            "dni_usuario_detectado": "N/A",
+            "motivo_fallo": "Timeout Presentaci\u00f3n RFID"
+        },
+        {
+            "timestamp_intento": "2025-06-12 22:25:55",
+            "uid_rfid_presentado": "7229C4A8",
+            "nombre_usuario_detectado": "Elonk Musk",
+            "dni_usuario_detectado": "23432127",
+            "motivo_fallo": "Nivel: Trabajador - Fuera Horario"
+        },
+        {
+            "timestamp_intento": "2025-06-12 22:26:17",
+            "uid_rfid_presentado": "7229C4A8",
+            "nombre_usuario_detectado": "Desconocido",
+            "dni_usuario_detectado": "N/A",
+            "motivo_fallo": "Tarjeta no reconocida"
+        }
+    ],
+    "intentos_fallidos_por_uid": {
+        "894D596D": {
+            "contador": 1,
+            "nivel_bloqueo": 0,
+            "desbloqueo_hasta": 0
+        },
+        "A45D97AF": {
+            "contador": 1,
+            "nivel_bloqueo": 0,
+            "desbloqueo_hasta": 0
+        },
+        "7229C4A8": {
+            "contador": 2,
+            "nivel_bloqueo": 0,
+            "desbloqueo_hasta": 0
+        }
+    },
+    "accesos_recientes_uid": {}
+}
