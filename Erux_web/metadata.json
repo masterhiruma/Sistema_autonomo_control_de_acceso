@@ -1,0 +1,8 @@
+{
+  "name": "Modern Access Control System",
+  "description": "A sleek, modern web interface for an access control system, featuring a live camera feed, real-time access logs, and a professional UI/UX design.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
